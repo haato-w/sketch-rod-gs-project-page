@@ -1,6 +1,6 @@
 # SketchRodGS Project Page
 
-This is the repository that contains source code for the [SketchRodGS website]().
+This is the repository that contains source code for the [SketchRodGS website](https://haato-w.github.io/sketch-rod-gs-project-page/).
 
 If you find SketchRodGS useful for your work please cite:
 ```
